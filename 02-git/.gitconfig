@@ -1,0 +1,6 @@
+[user]
+	name = Jack Evitts
+	email = jje9@kent.ac.uk
+[core]
+	autocrlf = true
+	editor = nano -w
